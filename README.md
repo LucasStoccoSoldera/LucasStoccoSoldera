@@ -7,7 +7,7 @@
 
 ## Caso queria acessar meu <br>
 <p>
-  <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/"><img alt="Linkedin profile" title="Linkedin" src="/linkedinn.jpg" width="50" height="75" /></a>
+  <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/"><img alt="Linkedin profile" title="Linkedin" src="/linkedinn.jpg" width="60" height="60" /></a>
 </p>
 ## Meus príncipais interresses no momento são:
 
