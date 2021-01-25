@@ -1,6 +1,7 @@
-### Hi there 👋
+### Chega mais meu bom 🐱‍👤🌎
 ![Lucas Stocco's Github Stats](https://github-readme-stats.vercel.app/api?username=LucasStoccoSoldera&theme=monokai&show_icons=true)
-**LucasStoccoSoldera/LucasStoccoSoldera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Eu sou o Lucas Stocco Soldera, estudante nível técnico em Tecnologia da Informação, pretendo utilizar o GitHub para estar salvando e publicando projetos já feitos e em desenvolvimento relacionados com Lógica e Programação.
 
 Here are some ideas to get you started:
 
