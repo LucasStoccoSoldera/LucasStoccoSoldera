@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStoccoSoldera&langs_count=6&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-## Caso queria acessar meu ![https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/](/linkedinn.jpg?raw=true)
+## Caso queria acessar meu <br> ![https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/](/linkedinn.jpg?raw=true)
 
 ## Meus príncipais interresses no momento são:
 
