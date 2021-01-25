@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Lucas Stocco's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true&locale=pt)
+![Lucas Stocco's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
 **LucasStoccoSoldera/LucasStoccoSoldera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
