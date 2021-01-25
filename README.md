@@ -5,8 +5,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStoccoSoldera&langs_count=6&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-## Caso queria acessar meu <br> ![https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/](/linkedinn.jpg?raw=true)
-
+## Caso queria acessar meu <br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/"><img alt="Linkedin profile" title="Linkedin" src="/linkedinn.jpg" width="50" height="50" /></a>
+  ![https://](/linkedinn.jpg?raw=true)
+</p>
 ## Meus príncipais interresses no momento são:
 
 #### - 💢 Aprender Laravel o máximo possível;
