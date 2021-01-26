@@ -22,6 +22,6 @@
 #### - 💢 Aprender UI.
 
 <p align="center"> 
-  <p font-size="18"> Dando aquela contada em quem visualisou...<br></p>
+### Dando aquela contada em quem visualisou...<br>
   <img src="https://profile-counter.glitch.me/LucasStoccoSoldera/count.svg" />
 </p>
