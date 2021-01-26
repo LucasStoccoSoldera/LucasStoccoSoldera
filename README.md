@@ -22,6 +22,6 @@
 #### - 💢 Aprender UI.
 
 <p align="center"> 
-  Visitor count<br>
+  ## Dando aquela contada em quem visualisou...<br>
   <img src="https://profile-counter.glitch.me/LucasStoccoSoldera/count.svg" />
 </p>
