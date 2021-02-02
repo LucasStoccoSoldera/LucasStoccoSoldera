@@ -22,14 +22,7 @@
 </a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
 <img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
 </a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
+
 <br><br><br>
   
 ![Lucas Stocco's Github Stats](https://github-readme-stats.vercel.app/api?username=LucasStoccoSoldera&theme=radical&show_icons=true)
@@ -62,14 +55,7 @@
 </a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
 <img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
 </a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
-<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="35px" src="/linkedin.png" />
-</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
+
 <br><br>
 
 ## Meus príncipais interresses no momento são:
