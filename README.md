@@ -8,7 +8,15 @@
 
 <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
 <img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="60px" src="/linkedin.png" />
-</a><br><br><br>
+</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
+<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="60px" src="/linkedin.png" />
+</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
+<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="60px" src="/linkedin.png" />
+</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
+<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="60px" src="/linkedin.png" />
+</a> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
+<img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="60px" src="/linkedin.png" />
+</a>
 
 ## Meus príncipais interresses no momento são:
 
