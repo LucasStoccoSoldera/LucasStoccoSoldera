@@ -6,9 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStoccoSoldera&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## <p> Caso queria acessar meu  <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
+<a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/">
 <img align="left" float="left" alt="Lucas Stocco Soldera | Linkedin" width="60px" src="/linkedin.png" />
-</a></p><br>
+</a><br><br><br>
 
 ## Meus príncipais interresses no momento são:
 
