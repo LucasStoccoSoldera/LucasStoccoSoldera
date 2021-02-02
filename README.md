@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasStoccoSoldera&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## <p> Caso queria acessar meu </p> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/"><img align="center" alt="Linkedin profile" title="Linkedin" src="/linkedin.png" height="128px" width"128px" /></a>
+## <p> Caso queria acessar meu </p> <a href="https://www.linkedin.com/in/lucas-stocco-soldera-7b30101b1/"><img align="center" alt="Linkedin profile" title="Linkedin" src="/linkedin.png" width"128px" /></a>
 <br>
 
 ## Meus príncipais interresses no momento são:
